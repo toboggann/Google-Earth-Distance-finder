@@ -1,3 +1,9 @@
+# Prediction-Algo
+
+This is a project that I developed during my freshman year in college for the CS:1210 class. The algorithm retrieves data from online datasets and converts it into appropriate data structures. It then uses these data structures to predict ratings for both movies and users. The algorithm could be useful in recommending movies to users or predicting how a user might rate a particular movie.
+
+
+
 SUMMARY & USAGE LICENSE
 =============================================
 
